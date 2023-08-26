@@ -1,0 +1,53 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "": "/lshfsdaj",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "role": 1,
+      "username": "admin",
+      "email": "admin@mail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "role": 2,
+      "username": "bhavya",
+      "email": "bhavya@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "role": 2,
+      "username": "bhavy",
+      "email": "bhava@gmail.com",
+      "password": "1234",
+      "id": 3
+    },
+    {
+      "role": 2,
+      "username": "bhavy",
+      "email": "bhava@gmail.com",
+      "password": "1234",
+      "id": 4
+    }
+  ]
+}
